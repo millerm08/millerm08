@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @millerm08
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Google's Foundations of Cyber Security
+- 👋 Hi, I’m Matt
+- 👀 I’m interested in DevOps and Pentesting
+- 🌱 I’m currently completing a Level 4 DevOps Engineer Apprenticeship
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
